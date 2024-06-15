@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Entrenadores Pokémon</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="app">
+  <h1>Entrenadores Pokémon</h1>
+  <div v-for="(entrenador, index) in entrenadores" :key="index">
+    <div class="entrenador-container">
+      <h2>{{ entrenador.name }}</h2>
+      <div class="buttons">
+        <button @click="verPokemon(index)">Ver Pokémon</button>
+        <button @click="seleccionarEntrenador(entrenador)">Seleccionar</button>
+      </div>
+    </div>
+    <ul v-if="mostrarPokemon === index">
+      <li v-for="(pokemon, i) in entrenador.pokemons" :key="i">{{ pokemon.name }}</li>
+    </ul>
+  </div>
+  <!-- Modal -->
+  <div class="modal" v-if="entrenador1 && entrenador2" style="display: block;">
+    <div class="modal-content">
+      <span class="close" @click="cerrarModal">&times;</span>
+      <p>Se realizará un nuevo combate entre {{ entrenador1.name }} vs {{ entrenador2.name }}</p>
+    </div>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="services/app.js"></script>
+</body>
+</html>

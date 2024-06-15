@@ -1,0 +1,157 @@
+[
+    {
+      "id": 1,
+      "name": "Ash Ketchum",
+      "pokemons": [
+        {"id": 1, "name": "Pikachu"},
+        {"id": 2, "name": "Charizard"},
+        {"id": 3, "name": "Bulbasaur"},
+        {"id": 4, "name": "Squirtle"},
+        {"id": 5, "name": "Snorlax"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Misty",
+      "pokemons": [
+        {"id": 6, "name": "Psyduck"},
+        {"id": 7, "name": "Starmie"},
+        {"id": 8, "name": "Togepi"},
+        {"id": 9, "name": "Corsola"},
+        {"id": 10, "name": "Gyarados"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brock",
+      "pokemons": [
+        {"id": 11, "name": "Onix"},
+        {"id": 12, "name": "Geodude"},
+        {"id": 13, "name": "Vulpix"},
+        {"id": 14, "name": "Zubat"},
+        {"id": 15, "name": "Kabutops"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gary Oak",
+      "pokemons": [
+        {"id": 16, "name": "Blastoise"},
+        {"id": 17, "name": "Arcanine"},
+        {"id": 18, "name": "Raticate"},
+        {"id": 19, "name": "Nidoking"},
+        {"id": 20, "name": "Sandslash"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lt. Surge",
+      "pokemons": [
+        {"id": 21, "name": "Raichu"},
+        {"id": 22, "name": "Electabuzz"},
+        {"id": 23, "name": "Magneton"},
+        {"id": 24, "name": "Electrode"},
+        {"id": 25, "name": "Jolteon"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sabrina",
+      "pokemons": [
+        {"id": 26, "name": "Alakazam"},
+        {"id": 27, "name": "Mr. Mime"},
+        {"id": 28, "name": "Venomoth"},
+        {"id": 29, "name": "Jynx"},
+        {"id": 30, "name": "Gengar"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Erika",
+      "pokemons": [
+        {"id": 31, "name": "Vileplume"},
+        {"id": 32, "name": "Tangela"},
+        {"id": 33, "name": "Victreebel"},
+        {"id": 34, "name": "Bellossom"},
+        {"id": 35, "name": "Parasect"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Koga",
+      "pokemons": [
+        {"id": 36, "name": "Weezing"},
+        {"id": 37, "name": "Muk"},
+        {"id": 38, "name": "Venomoth"},
+        {"id": 39, "name": "Crobat"},
+        {"id": 40, "name": "Ariados"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Blaine",
+      "pokemons": [
+        {"id": 41, "name": "Arcanine"},
+        {"id": 42, "name": "Magmar"},
+        {"id": 43, "name": "Rapidash"},
+        {"id": 44, "name": "Ninetales"},
+        {"id": 45, "name": "Flareon"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Giovanni",
+      "pokemons": [
+        {"id": 46, "name": "Rhydon"},
+        {"id": 47, "name": "Nidoking"},
+        {"id": 48, "name": "Dugtrio"},
+        {"id": 49, "name": "Persian"},
+        {"id": 50, "name": "Kangaskhan"}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Lorelei",
+      "pokemons": [
+        {"id": 51, "name": "Dewgong"},
+        {"id": 52, "name": "Cloyster"},
+        {"id": 53, "name": "Lapras"},
+        {"id": 54, "name": "Jynx"},
+        {"id": 55, "name": "Slowbro"}
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Bruno",
+      "pokemons": [
+        {"id": 56, "name": "Onix"},
+        {"id": 57, "name": "Hitmonlee"},
+        {"id": 58, "name": "Hitmonchan"},
+        {"id": 59, "name": "Machamp"},
+        {"id": 60, "name": "Steelix"}
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Agatha",
+      "pokemons": [
+        {"id": 61, "name": "Gengar"},
+        {"id": 62, "name": "Golbat"},
+        {"id": 63, "name": "Haunter"},
+        {"id": 64, "name": "Arbok"},
+        {"id": 65, "name": "Misdreavus"}
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lance",
+      "pokemons": [
+        {"id": 66, "name": "Dragonite"},
+        {"id": 67, "name": "Aerodactyl"},
+        {"id": 68, "name": "Gyarados"},
+        {"id": 69, "name": "Charizard"},
+        {"id": 70, "name": "Dragonair"}
+      ]
+    }
+  ]
+  
